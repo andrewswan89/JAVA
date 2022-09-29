@@ -1,0 +1,62 @@
+сент. 29, 2022 5:21:55 PM bubbles main
+INFO: Code start 
+
+сент. 29, 2022 5:21:55 PM bubbles main
+INFO: Next iteration 
+[25, 11, 39, 3, 14, 16, 7]
+
+сент. 29, 2022 5:21:55 PM bubbles main
+INFO: Next iteration 
+[25, 11, 3, 39, 14, 16, 7]
+
+сент. 29, 2022 5:21:55 PM bubbles main
+INFO: Next iteration 
+[25, 11, 3, 14, 39, 16, 7]
+
+сент. 29, 2022 5:21:55 PM bubbles main
+INFO: Next iteration 
+[25, 11, 3, 14, 16, 39, 7]
+
+сент. 29, 2022 5:21:55 PM bubbles main
+INFO: Next iteration 
+[25, 11, 3, 14, 16, 7, 39]
+
+сент. 29, 2022 5:21:55 PM bubbles main
+INFO: Next iteration 
+[11, 25, 3, 14, 16, 7, 39]
+
+сент. 29, 2022 5:21:55 PM bubbles main
+INFO: Next iteration 
+[11, 3, 25, 14, 16, 7, 39]
+
+сент. 29, 2022 5:21:55 PM bubbles main
+INFO: Next iteration 
+[11, 3, 14, 25, 16, 7, 39]
+
+сент. 29, 2022 5:21:55 PM bubbles main
+INFO: Next iteration 
+[11, 3, 14, 16, 25, 7, 39]
+
+сент. 29, 2022 5:21:55 PM bubbles main
+INFO: Next iteration 
+[11, 3, 14, 16, 7, 25, 39]
+
+сент. 29, 2022 5:21:55 PM bubbles main
+INFO: Next iteration 
+[3, 11, 14, 16, 7, 25, 39]
+
+сент. 29, 2022 5:21:55 PM bubbles main
+INFO: Next iteration 
+[3, 11, 14, 7, 16, 25, 39]
+
+сент. 29, 2022 5:21:55 PM bubbles main
+INFO: Next iteration 
+[3, 11, 7, 14, 16, 25, 39]
+
+сент. 29, 2022 5:21:55 PM bubbles main
+INFO: Next iteration 
+[3, 7, 11, 14, 16, 25, 39]
+
+сент. 29, 2022 5:21:55 PM bubbles main
+OFF: Code finish 
+
