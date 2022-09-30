@@ -38,7 +38,7 @@ public class task1{
     }
     
     public static void main(String[] args){
-        int[] a = {45,15,3,28,456,136,1,14,17,5,21};
+        int[] a = {98,17,5,29,126,198,1,14,36,7,21};
         sort(a);    
         for(int j=0; j<a.length; j++){
             System.out.print(a[j] + " ");
